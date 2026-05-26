@@ -1,0 +1,6 @@
+{
+  "name": "EduManager Pro Angola",
+  "description": "Sistema de gestão escolar profissional adaptado para o mercado de Angola com suporte a pagamentos locais (Kwanza - AOA, Multicaixa Express, e upload/validação de comprovativos).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
